@@ -1,4 +1,4 @@
-# theoreticalNeuroscienceCode
+# Theoretical Neuroscience Project
 
 ### This repository contains all the code I wrote during a Theoretical Neuroscience Project I undertook in 2020-2021
 
